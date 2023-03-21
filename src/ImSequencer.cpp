@@ -23,7 +23,7 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 // SOFTWARE.
 //
-#include "ImSequencer.h"
+#include "ImGuizmo/ImSequencer.h"
 #include "imgui.h"
 #include "imgui_internal.h"
 #include <cstdlib>
